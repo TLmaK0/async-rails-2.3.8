@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails','2.3.8'
+gem 'rails','3.2.17'
 gem 'thin'
 gem 'sqlite3'
 gem 'em-http-request'
